@@ -21,7 +21,11 @@ include vendor/Droid_Concepts/products/themes_common.mk
 PRODUCT_PACKAGES += \
     DCWallpapers \
     Chronus \
+<<<<<<< HEAD
     Torch
+=======
+    DCBeats
+>>>>>>> 9898c95... DC Beats sourcey source
 
 # Common Google Applications and libs
 PRODUCT_COPY_FILES += \
